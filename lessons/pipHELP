@@ -1,0 +1,12 @@
+PIP:
+
+pip install name: устанавливает зависимость
+pip freeze: показывает зависимость
+
+
+pip install colorama
+pip freeze
+
+скачать art
+прописать: pip freeze > reg.txt
+импортировать art: from art import tprint
