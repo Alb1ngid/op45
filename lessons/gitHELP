@@ -8,3 +8,4 @@ git remote add origin ссылка на ваш репозиторий: связ�
 всегда
 git add . :добавляет файлы
 git commit -m 'название'
+git push origin master\main
