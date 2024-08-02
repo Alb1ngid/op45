@@ -10,5 +10,3 @@ print(lesson1.p)
 
 
 tprint('Hello World')
-
-
