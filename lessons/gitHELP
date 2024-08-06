@@ -24,3 +24,6 @@ git rm --cached  namefile : стирает файл
 
 git clone url репозитория: скачать чей-то репозиторий
 
+git remote remove origin
+
+cd ..
