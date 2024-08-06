@@ -19,3 +19,8 @@ git commit -m 'название'
 git push origin master\main
 
 git rm --cached  namefile : стирает файл
+
+
+
+git clone url репозитория: скачать чей-то репозиторий
+
