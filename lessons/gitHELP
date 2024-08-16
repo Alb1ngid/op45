@@ -12,3 +12,8 @@ git clone url репозитория: скачать чей-то репозит�
 git remote remove origin
 cd ..
 git status
+
+git branch: показывает ветки
+git branch name :создает ветку
+git checkout name: переключает ветки
+
