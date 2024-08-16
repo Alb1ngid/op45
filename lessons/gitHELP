@@ -16,4 +16,4 @@ git status
 git branch: показывает ветки
 git branch name :создает ветку
 git checkout name: переключает ветки
-
+git merge name: слияет ветку которую вы написали в ветку в которой вы находитесь
